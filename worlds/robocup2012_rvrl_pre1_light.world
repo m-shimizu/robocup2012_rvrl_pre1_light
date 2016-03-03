@@ -6,9 +6,11 @@
       <uri>model://sun</uri>
     </include>
     <!-- A ground plane -->
+    <!--
     <include>
-      <uri>model://ground_plane</uri>
+       <uri>model://ground_plane</uri>
     </include>
+    -->
     <include>
       <uri>model://robocup2012_rvrl_pre1_light</uri>
       <pose>-3.5 -2 0 0 0 0</pose>
